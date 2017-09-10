@@ -53,56 +53,43 @@ Experience
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **HTML, CSS, JS :** I've been working with front-end web-development
+    languages for a long time, I have now mastered them. Combined with
+    my creative nature acquired from video making, mainly, I'm absolutely
+    at ease in front website creations.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file).
+:   **PHP, Python, Ruby:** After focusing for a long time on front-end
+    designs, I decided to focus on back end through PHP for web-development, then Python for personal projects or with web frameworks, and Ruby for other personal projects but not web oriented.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Pizza:** Derivative of Java, I tried to and succeeded in modding
+    Minecraft by adapting the compiler.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **Adobe Creative Cloud Suite:** I've use it for a long time now,
+    I'm fully capable of using the most popular softwares from the collections, as in Photoshop, Lightroom and especially Premiere Pro.
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   **Microsoft Office and Apple iWork:** I've used both for work and know
+    all the tips and tricks to make my work efficient and pretty to the eye.
 
-Extra Section, Call it Whatever You Want
+:   Basic and advanced uses of ** Mac OS, Windows and most Linux
+    Distributions.**
+
+
+Extra
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * French (native speaker)
+     * English (bilingual)
 
-* Random tidbit
+* Horse riding, swimming
 
-* Other sort of impressive-sounding thing you did
+* Video-making, photography, writing
+
+* Travelling
 
 ----
 
-> <me@xnuance.fr> • +33 6 84 99 34 92 • 17 years old\
+> <me@xnuance.fr> • +33 6 84 99 34 92 • 17 years old •
 > 2 Avenue Normandie Niemen - Le Blanc-Mesnil, France

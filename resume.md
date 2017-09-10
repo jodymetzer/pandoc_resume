@@ -1,46 +1,54 @@
-Johnny Coder
+Yanis Bourial
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Aliquip eiusmod aliquip enim sunt ullamco sunt adipisicing.
+> Tempor sint velit culpa aliqua aliqua enim anim non.
+> Qui aute sunt qui pariatur elit cupidatat labore eiusmod incididunt.
+> Nisi est anim id pariatur nisi proident esse labore laborum.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2017-2020 (expected)
+:   **Bachelor, Web Development**; [Sup'Internet](http://supinternet.fr) (Paris)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis: Master industrial engineering, technological innovation and the preservation of the environment.*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2014-2017
+:   **Baccalauréat, Engineering and Project Management**; [Robert Schuman](http://www.lyceerobertschuman.com/) (Dugny)
 
-    *Minor: Awesomeology*
+    *Thesis: Discovering and immersion into the development sphere onto professional world integration.*
+
+
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Most Recent Work Experience:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+***Network and administrative administrator*** @[nyme.](http://nyme.se/) (2015-2017)
+* Website creation and set-up of a full social sphere (Twitter, Facebook, ...).
 
-* First item
+* Movie making (editing, shooting, organization, writing).
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Registration and membership management.
 
-**That Other Job You Had**
+***IT Support and Network Administration***
+@[Chambre des Métiers et de l'Artisanat](https://www.cma93.fr/) *(2014)*
 
-Also with a short description.
+* **PFSense** deployment and setup for 300+ devices (with VPN, mail and internet access) after critical firewall failure.
+
+* Development of a web **real time IT infrastructure management** solution (Windows Scripts and PHP interpretation).
+
+***Trainee*** @[Sony Music](http://www.sonymusic.fr/) *(2013)*
+
+* **Discovery** of the infrastructure organization from a multi-label company  
+
+----
 
 Technical Experience
 --------------------
@@ -72,7 +80,7 @@ Programming Languages
 :   **second-lang:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
-    file). 
+    file).
 
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
@@ -96,5 +104,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <me@xnuance.fr> • +33 6 84 99 34 92 • 17 years old\
+> 2 Avenue Normandie Niemen - Le Blanc-Mesnil, France
